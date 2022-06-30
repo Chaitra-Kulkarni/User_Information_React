@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
 .App {
-  text-align: center;
   background: rgb(95, 20, 218);
   background: linear-gradient(
     90deg,
     rgba(95, 20, 218, 1) 0%,
     rgba(233, 148, 148, 1) 100%
   );
+  font-family: 'Poppins', sans-serif;
 }
